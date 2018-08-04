@@ -13,7 +13,7 @@ Anyway, "Ganje" is a persian word that means Closet.
         * LiveData
 
 ## Android Architecture Components
-[Introduction to Android Architecture Components](https://code.tutsplus.com/tutorials/introduction-to-android-architecture--cms-28749)
+[Introduction to Android Architecture Components](https://code.tutsplus.com/tutorials/introduction-to-android-architecture--cms-28749) [tutsplus] [Tin Megali]
 
 ## LiveData
 [Basic Example of LiveData and ViewModel](https://medium.com/@taman.neupane/basic-example-of-livedata-and-viewmodel-14d5af922d0) [medium] [taman neupane]
@@ -21,8 +21,6 @@ Anyway, "Ganje" is a persian word that means Closet.
 [Life saving LiveData class Android](https://medium.com/@taman.neupane/life-saving-livedata-class-android-b3f36d57d79f) [medium] [taman neupane]
 
 [Android Architecture Components: LiveData](https://code.tutsplus.com/tutorials/android-architecture-component-livedata--cms-29317) [tutsplus] [Tin Megali]
-
-[Android Architecture Components: LiveData](https://android.jlelse.eu/android-architecture-components-livedata-1ce4ab3c0466) [medium] [Paulina Szklarska]
 
 # Contributing
 Your contributions are always welcome! Please read the [contribution guidelines](contributing.md) first.
