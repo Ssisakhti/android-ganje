@@ -21,4 +21,4 @@ Anyway, "Ganje" is a persian word that means Closet.
 [Android Architecture Components: LiveData](https://android.jlelse.eu/android-architecture-components-livedata-1ce4ab3c0466) [medium] [Paulina Szklarska]
 
 # Contributing
-Your contributions are always welcome!
+Your contributions are always welcome! Please read the [contribution guidelines](contributing.md) first.
