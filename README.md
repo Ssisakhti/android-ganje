@@ -1,5 +1,5 @@
 # Android-Ganje
-[Photo-Banner]
+![Android-Ganje-Banner](https://github.com/Ssisakhti/android-ganje/blob/master/android-ganje-banner.png)
 
 # About
 
