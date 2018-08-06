@@ -13,7 +13,7 @@ Anyway, "Ganje" is a persian word that means Closet.
 
 # Content [English]
 * Android Jetpack Components
-    * [Android Architecture Components] (#android-architecture-components)
+    * [Android Architecture Components](#android-architecture-components)
         * Handling lifecycles
         * LiveData
 
