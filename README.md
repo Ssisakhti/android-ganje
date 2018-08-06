@@ -9,7 +9,7 @@ Anyway, "Ganje" is a persian word that means Closet.
 
 # Languages
 
-[Android Ganje in English](# Content [English])
+[Android Ganje in English](# Content-English)
 
 # Content [English]
 * Android Jetpack Components
