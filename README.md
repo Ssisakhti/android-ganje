@@ -23,12 +23,22 @@ Anyway, "Ganje" is a persian word that means Closet.
 ## Clean Architecture
 [A Guided Tour inside a clean architecture code base.](https://proandroiddev.com/a-guided-tour-inside-a-clean-architecture-code-base-48bb5cc9fc97) [medium] [Yossi Segev]
 
+[MVVM on Android with the Architecture Components](https://medium.com/@margaretmz/exploring-the-android-architecture-components-117515acfa8) [medium] [Margaret Maynard-Reid]
+
+[MVVM architecture, ViewModel and LiveData (Part 1)](https://proandroiddev.com/mvvm-architecture-viewmodel-and-livedata-part-1-604f50cda1) [medium] [Hazem Saleh]
+
+[MVVM architecture, ViewModel and LiveData — Part 2 (DI)](https://proandroiddev.com/mvvm-architecture-viewmodel-and-livedata-part-2-di-1a6b1f96d84b) [medium] [Hazem Saleh]
+
 ## Android Architecture Components
 [Guide to App Architecture](https://developer.android.com/jetpack/docs/guide) [android]
 
 [Introduction to Android Architecture Components](https://code.tutsplus.com/tutorials/introduction-to-android-architecture--cms-28749) [tutsplus] [Tin Megali]
 
 [The Missing Google Sample of Android “Architecture Components” Guide.](https://proandroiddev.com/the-missing-google-sample-of-android-architecture-components-guide-c7d6e7306b8f) [medium] [Philippe BOISNEY]
+
+[https://medium.com/@taman.neupane/basic-example-of-livedata-and-viewmodel-14d5af922d0](https://medium.com/@taman.neupane/basic-example-of-livedata-and-viewmodel-14d5af922d0) [medium] [taman neupane]
+
+[ViewModels and LiveData: Patterns + AntiPatterns](https://medium.com/google-developers/viewmodels-and-livedata-patterns-antipatterns-21efaef74a54) [medium] [Jose Alcérreca]
 
 ## Handling lifecycles
 [Handling lifecycles with lifecycle-aware components ](https://developer.android.com/topic/libraries/architecture/lifecycle) [android]
