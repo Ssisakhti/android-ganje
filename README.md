@@ -21,13 +21,47 @@ Anyway, "Ganje" is a persian word that means Closet.
         * [LiveData](#livedata)
 
 ## Clean Architecture
+[Architecting Android...The clean way?](https://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/) [fernandocejas] [Fernando Cejas]
+
+[Architecting Android...The evolution](https://fernandocejas.com/2015/07/18/architecting-android-the-evolution/) [fernandocejas] [Fernando Cejas]
+
+[Architecting Android...Reloaded](https://fernandocejas.com/2018/05/07/architecting-android-reloaded/) [fernandocejas] [Fernando Cejas]
+
+[Android Architecture: Part 1 – Every New Beginning is Hard](https://five.agency/android-architecture-part-1-every-new-beginning-is-hard/) [five] [Tomislav Homan]
+
+[Android Architecture: Part 2 – the clean architecture](https://five.agency/android-architecture-part-2-clean-architecture/) [five] [Tomislav Homan]
+
+[Android Architecture: Part 3 – Applying Clean Architecture on Android](https://five.agency/android-architecture-part-3-applying-clean-architecture-android/) [five] [Tomislav Homan]
+
+[Android Architecture Part 4: Applying Clean Architecture on Android, Hands on (source code included)](https://five.agency/android-architecture-part-4-applying-clean-architecture-on-android-hands-on/) [five] [Mihael Franceković]
+
+[Android Architecture Part 5: How to Test Clean Architecture](https://five.agency/android-architecture-part-5-test-clean-architecture/) [five]
+
 [A Guided Tour inside a clean architecture code base.](https://proandroiddev.com/a-guided-tour-inside-a-clean-architecture-code-base-48bb5cc9fc97) [medium] [Yossi Segev]
 
 [MVVM on Android with the Architecture Components](https://medium.com/@margaretmz/exploring-the-android-architecture-components-117515acfa8) [medium] [Margaret Maynard-Reid]
 
-[MVVM architecture, ViewModel and LiveData (Part 1)](https://proandroiddev.com/mvvm-architecture-viewmodel-and-livedata-part-1-604f50cda1) [medium] [Hazem Saleh]
+[Maintainable Architecture – Introduction](https://blog.stylingandroid.com/maintainable-architecture-introduction/) [stylingandroid] [Mark Allison]
 
-[MVVM architecture, ViewModel and LiveData — Part 2 (DI)](https://proandroiddev.com/mvvm-architecture-viewmodel-and-livedata-part-2-di-1a6b1f96d84b) [medium] [Hazem Saleh]
+[Maintainable Architecture – Separation Of Concerns](https://blog.stylingandroid.com/maintainable-architecture-introduction-2/) [stylingandroid] [Mark Allison]
+
+[Maintainable Architecture – Dependency Injection](https://blog.stylingandroid.com/maintainable-architecture-dependency-injection/) [stylingandroid] [Mark Allison]
+
+[Maintainable Architecture – Lifecycle](https://blog.stylingandroid.com/maintainable-architecture-lifecycle/) [stylingandroid] [Mark Allison]
+
+[Maintainable Architecture – Testing](https://blog.stylingandroid.com/maintainable-architecture-testing/) [stylingandroid] [Mark Allison]
+
+[Maintainable Architecture – Repository](https://blog.stylingandroid.com/maintainable-architecture-repository/) [stylingandroid] [Mark Allison]
+
+[Maintainable Architecture – Five Day Forecast – Data Layer](https://blog.stylingandroid.com/maintainable-architecture-five-day-forecast-data-layer/) [stylingandroid] [Mark Allison]
+
+[Maintainable Architecture – Five Day Forecast – UI Layer](https://blog.stylingandroid.com/maintainable-architecture-five-day-forecast-ui-layer/) [stylingandroid] [Mark Allison]
+
+[Maintainable Architecture – Daily Forecast](https://blog.stylingandroid.com/maintainable-architecture-daily-forecast/) [stylingandroid] [Mark Allison]
+
+[Maintainable Architecture – Readability](https://blog.stylingandroid.com/maintainable-architecture-readability/) [stylingandroid] [Mark Allison]
+
+[Maintainable Architecture – Navigation](https://blog.stylingandroid.com/maintainable-architecture-navigation/) [stylingandroid] [Mark Allison]
 
 ## Android Architecture Components
 [Guide to App Architecture](https://developer.android.com/jetpack/docs/guide) [android]
@@ -38,20 +72,28 @@ Anyway, "Ganje" is a persian word that means Closet.
 
 [https://medium.com/@taman.neupane/basic-example-of-livedata-and-viewmodel-14d5af922d0](https://medium.com/@taman.neupane/basic-example-of-livedata-and-viewmodel-14d5af922d0) [medium] [taman neupane]
 
+[MVVM architecture, ViewModel and LiveData (Part 1)](https://proandroiddev.com/mvvm-architecture-viewmodel-and-livedata-part-1-604f50cda1) [medium] [Hazem Saleh]
+
+[MVVM architecture, ViewModel and LiveData — Part 2 (DI)](https://proandroiddev.com/mvvm-architecture-viewmodel-and-livedata-part-2-di-1a6b1f96d84b) [medium] [Hazem Saleh]
+
 [ViewModels and LiveData: Patterns + AntiPatterns](https://medium.com/google-developers/viewmodels-and-livedata-patterns-antipatterns-21efaef74a54) [medium] [Jose Alcérreca]
 
 ## Handling lifecycles
 [Handling lifecycles with lifecycle-aware components ](https://developer.android.com/topic/libraries/architecture/lifecycle) [android]
 
 ## ViewModel
+[ViewModels : A Simple Example](https://medium.com/google-developers/viewmodels-a-simple-example-ed5ac416317e) [medium] [Lyla Fujiwara]
+
+[ViewModels: Persistence, onSaveInstanceState(), Restoring UI State and Loaders](https://medium.com/google-developers/viewmodels-persistence-onsaveinstancestate-restoring-ui-state-and-loaders-fc7cc4a6c090) [medium] [Lyla Fujiwara]
+
 [The death of Presenters and the rise of ViewModels (AAC).](https://proandroiddev.com/the-death-of-presenters-and-the-rise-of-viewmodels-aac-f14d54b419a) [medium] [Mario Sanoguera de Lorenzo]
 
 [Internals of Android Architecture Components Part I — The ViewModel](https://medium.com/the-lair/internals-of-android-architecture-components-part-i-the-viewmodel-d893e362a0d9) [medium] [Josep Rodriguez]
 
 ## LiveData
-[Basic Example of LiveData and ViewModel](https://medium.com/@taman.neupane/basic-example-of-livedata-and-viewmodel-14d5af922d0) [medium] [taman neupane]
-
 [Life saving LiveData class Android](https://medium.com/@taman.neupane/life-saving-livedata-class-android-b3f36d57d79f) [medium] [taman neupane]
+
+[Basic Example of LiveData and ViewModel](https://medium.com/@taman.neupane/basic-example-of-livedata-and-viewmodel-14d5af922d0) [medium] [taman neupane]
 
 [Android Architecture Components: LiveData](https://code.tutsplus.com/tutorials/android-architecture-component-livedata--cms-29317) [tutsplus] [Tin Megali]
 
