@@ -70,7 +70,7 @@ Anyway, "Ganje" is a persian word that means Closet.
 
 [The Missing Google Sample of Android “Architecture Components” Guide.](https://proandroiddev.com/the-missing-google-sample-of-android-architecture-components-guide-c7d6e7306b8f) [medium] [Philippe BOISNEY]
 
-[https://medium.com/@taman.neupane/basic-example-of-livedata-and-viewmodel-14d5af922d0](https://medium.com/@taman.neupane/basic-example-of-livedata-and-viewmodel-14d5af922d0) [medium] [taman neupane]
+[Basic Example of LiveData and ViewModel](https://medium.com/@taman.neupane/basic-example-of-livedata-and-viewmodel-14d5af922d0) [medium] [taman neupane]
 
 [MVVM architecture, ViewModel and LiveData (Part 1)](https://proandroiddev.com/mvvm-architecture-viewmodel-and-livedata-part-1-604f50cda1) [medium] [Hazem Saleh]
 
