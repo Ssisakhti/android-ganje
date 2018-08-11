@@ -64,6 +64,8 @@ Anyway, "Ganje" is a persian word that means Closet.
 [Maintainable Architecture – Navigation](https://blog.stylingandroid.com/maintainable-architecture-navigation/) [stylingandroid] [Mark Allison]
 
 ## Android Architecture Components
+[droidcon NYC 2017 - ViewModels, LiveData and Lifecycles, oh my!](https://www.youtube.com/watch?v=SlZVYkhoSq8) [youtube] [droidcon NYC]
+
 [Guide to App Architecture](https://developer.android.com/jetpack/docs/guide) [android]
 
 [Introduction to Android Architecture Components](https://code.tutsplus.com/tutorials/introduction-to-android-architecture--cms-28749) [tutsplus] [Tin Megali]
@@ -78,10 +80,14 @@ Anyway, "Ganje" is a persian word that means Closet.
 
 [ViewModels and LiveData: Patterns + AntiPatterns](https://medium.com/google-developers/viewmodels-and-livedata-patterns-antipatterns-21efaef74a54) [medium] [Jose Alcérreca]
 
+[Android's Architecture Components](https://commonsware.com/AndroidArch/) [Book]
+
 ## Handling lifecycles
 [Handling lifecycles with lifecycle-aware components ](https://developer.android.com/topic/libraries/architecture/lifecycle) [android]
 
 ## ViewModel
+[Android Jetpack: ViewModel](https://www.youtube.com/watch?v=5qlIPTDE274) [youtube] [Android Developers]
+
 [ViewModels : A Simple Example](https://medium.com/google-developers/viewmodels-a-simple-example-ed5ac416317e) [medium] [Lyla Fujiwara]
 
 [ViewModels: Persistence, onSaveInstanceState(), Restoring UI State and Loaders](https://medium.com/google-developers/viewmodels-persistence-onsaveinstancestate-restoring-ui-state-and-loaders-fc7cc4a6c090) [medium] [Lyla Fujiwara]
@@ -91,6 +97,8 @@ Anyway, "Ganje" is a persian word that means Closet.
 [Internals of Android Architecture Components Part I — The ViewModel](https://medium.com/the-lair/internals-of-android-architecture-components-part-i-the-viewmodel-d893e362a0d9) [medium] [Josep Rodriguez]
 
 ## LiveData
+[Android Jetpack: LiveData](https://www.youtube.com/watch?v=OMcDk2_4LSk) [youtube] [Android Developers]
+
 [Life saving LiveData class Android](https://medium.com/@taman.neupane/life-saving-livedata-class-android-b3f36d57d79f) [medium] [taman neupane]
 
 [Basic Example of LiveData and ViewModel](https://medium.com/@taman.neupane/basic-example-of-livedata-and-viewmodel-14d5af922d0) [medium] [taman neupane]
@@ -100,6 +108,8 @@ Anyway, "Ganje" is a persian word that means Closet.
 [When and why to use Android LiveData](https://medium.com/sears-israel/when-and-why-to-use-android-livedata-93d7dd949138) [medium] [Giora Shevach]
 
 [Internals of Android Architecture Components Part II— LiveData](https://medium.com/the-lair/internals-of-android-architecture-components-part-ii-livedata-a26a4d11795) [medium] [Josep Rodriguez]
+
+[Architecture Components pitfalls — Part 1 : LiveData and the Fragment lifecycle](https://medium.com/@BladeCoder/architecture-components-pitfalls-part-1-9300dd969808) [medium] [Christophe Beyls]
 
 [LiveData beyond the ViewModel — Reactive patterns using Transformations and MediatorLiveData](https://medium.com/google-developers/livedata-beyond-the-viewmodel-reactive-patterns-using-transformations-and-mediatorlivedata-fda520ba00b7) [medium] [Jose Alcérreca]
 
