@@ -19,6 +19,8 @@ Anyway, "Ganje" is a persian word that means Closet.
         * [Handling lifecycles](#handling-lifecycles)
         * [ViewModel](#viewmodel)
         * [LiveData](#livedata)
+* [Networking](#networking)
+    * [Retrofit](#retrofit)
 
 ## Clean Architecture
 [Architecting Android...The clean way?](https://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/) [fernandocejas] [Fernando Cejas]
@@ -114,6 +116,14 @@ Anyway, "Ganje" is a persian word that means Closet.
 [LiveData beyond the ViewModel — Reactive patterns using Transformations and MediatorLiveData](https://medium.com/google-developers/livedata-beyond-the-viewmodel-reactive-patterns-using-transformations-and-mediatorlivedata-fda520ba00b7) [medium] [Jose Alcérreca]
 
 [LiveData with SnackBar, Navigation and other events (the SingleLiveEvent case)](https://medium.com/google-developers/livedata-with-snackbar-navigation-and-other-events-the-singleliveevent-case-ac2622673150) [medium] [Jose Alcérreca]
+
+## Networking
+[Droidcon Montreal Jake Wharton - A Few Ok Libraries](https://www.youtube.com/watch?v=WvyScM_S88c) [youtube] [Droidcon Montreal]
+
+## Retrofit
+[Retrofit Basics](https://futurestud.io/learningpaths/retrofit-basics) [futurestud] [Marcus Pöhls]
+
+[How does Retrofit work](https://proandroiddev.com/how-does-retrofit-work-6ecad1bb683b) [medium] [Mihaly Nagy]
 
 # Contributing
 Your contributions are always welcome! Please read the [contribution guidelines](contributing.md) first.
