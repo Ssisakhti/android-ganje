@@ -29,6 +29,7 @@ Anyway, "Ganje" is a persian word that means Closet.
 ## Kotlin
 [Introduction to Kotlin Programming](http://shop.oreilly.com/product/0636920052982.do) [oreilly] [Hadi Hariri]
 [Advanced Kotlin Programming](http://shop.oreilly.com/product/0636920052999.do) [oreilly] [Hadi Hariri]
+[The Ultimate Kotlin Tutorials for Beginners](https://www.callicoder.com/categories/kotlin/) [callicoder] [Rajeev Kumar Singh]
 
 ## Standard Functions
 [Mastering Kotlin standard functions: run, with, let, also and apply](https://medium.com/@elye.project/mastering-kotlin-standard-functions-run-with-let-also-and-apply-9cd334b0ef84) [medium] [Elye]
