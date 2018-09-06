@@ -28,16 +28,21 @@ Anyway, "Ganje" is a persian word that means Closet.
 
 ## Kotlin
 [Introduction to Kotlin Programming](http://shop.oreilly.com/product/0636920052982.do) [oreilly] [Hadi Hariri]
+
 [Advanced Kotlin Programming](http://shop.oreilly.com/product/0636920052999.do) [oreilly] [Hadi Hariri]
+
 [The Ultimate Kotlin Tutorials for Beginners](https://www.callicoder.com/categories/kotlin/) [callicoder] [Rajeev Kumar Singh]
 
 ## Standard Functions
 [Mastering Kotlin standard functions: run, with, let, also and apply](https://medium.com/@elye.project/mastering-kotlin-standard-functions-run-with-let-also-and-apply-9cd334b0ef84) [medium] [Elye]
+
 [Exploring the Kotlin standard library](http://beust.com/weblog/2015/10/30/exploring-the-kotlin-standard-library/) [beust] [Cédric Beust]
+
 [the tldr; on Kotlin’s let, apply, also, with and run functions](https://proandroiddev.com/the-tldr-on-kotlins-let-apply-also-with-and-run-functions-6253f06d152b) [medium] [Andre Perkins]
 
 ## Lambda Expressions
 [Lambda Expressions in Kotlin](https://www.baeldung.com/kotlin-lambda-expressions) [baeldung] [ Paul Jervis ]
+
 [Lambda expressions in Kotlin](https://marcin-chwedczuk.github.io/lambda-expressions-in-kotlin) [marcin-chwedczuk.github] [Marcin Chwedczuk]
 
 ## Clean Architecture
