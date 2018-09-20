@@ -25,13 +25,17 @@ Anyway, "Ganje" is a persian word that means Closet.
         * [LiveData](#livedata)
 * [Networking](#networking)
     * [Retrofit](#retrofit)
+* [Dependency Injection](#dependency-injection)
+    * [Dagger 2](#dagger-2)
 
 ## Kotlin
 [Introduction to Kotlin Programming](http://shop.oreilly.com/product/0636920052982.do) [oreilly] [Hadi Hariri]
 
+[The Ultimate Kotlin Tutorials for Beginners](https://www.callicoder.com/categories/kotlin/) [callicoder] [Rajeev Kumar Singh]
+
 [Advanced Kotlin Programming](http://shop.oreilly.com/product/0636920052999.do) [oreilly] [Hadi Hariri]
 
-[The Ultimate Kotlin Tutorials for Beginners](https://www.callicoder.com/categories/kotlin/) [callicoder] [Rajeev Kumar Singh]
+[Kotlin has Nothing but there is nothing like Nothing in Java](https://medium.com/thoughts-overflow/kotlin-has-nothing-but-there-is-nothing-like-nothing-in-java-cab98e4f4d26) [medium] [Bob]
 
 ## Standard Functions
 [Mastering Kotlin standard functions: run, with, let, also and apply](https://medium.com/@elye.project/mastering-kotlin-standard-functions-run-with-let-also-and-apply-9cd334b0ef84) [medium] [Elye]
@@ -147,6 +151,27 @@ Anyway, "Ganje" is a persian word that means Closet.
 [Retrofit Basics](https://futurestud.io/learningpaths/retrofit-basics) [futurestud] [Marcus Pöhls]
 
 [How does Retrofit work](https://proandroiddev.com/how-does-retrofit-work-6ecad1bb683b) [medium] [Mihaly Nagy]
+
+## Dependency Injection
+
+## Dagger 2
+[Dagger 2 for Android Beginners — Introduction](https://medium.com/@harivigneshjayapalan/dagger-2-for-android-beginners-introduction-be6580cb3edb) [medium] [Hari Vignesh Jayapalan]
+
+[Dagger 2 for Android Beginners — DI part I](https://medium.com/@harivigneshjayapalan/dagger-2-for-android-beginners-di-part-i-f5cc4e5ad878) [medium] [Hari Vignesh Jayapalan]
+
+[Dagger 2 for Android Beginners — DI part II](https://medium.com/@harivigneshjayapalan/dagger-2-for-android-beginners-di-part-ii-bce68f463bfe) [medium] [Hari Vignesh Jayapalan]
+
+[Dagger 2 for Android Beginners — Dagger 2 part I](https://medium.com/@harivigneshjayapalan/dagger-2-for-android-beginners-dagger-2-part-i-f2de5564ab25) [medium] [Hari Vignesh Jayapalan]
+
+[Dagger 2 for Android Beginners — Dagger 2 part II](https://medium.com/@harivigneshjayapalan/dagger-2-for-android-beginners-dagger-2-part-ii-436c3e3aa15b) [medium] [Hari Vignesh Jayapalan]
+
+[Dagger 2 for Android Beginners — Dagger 2 Advanced part I](https://medium.com/@harivigneshjayapalan/dagger-2-for-android-beginners-advanced-part-i-1e14fccf2cc8) [medium] [Hari Vignesh Jayapalan]
+
+[Dagger 2 for Android Beginners — Dagger 2 Advanced part II](https://medium.com/@harivigneshjayapalan/dagger-2-for-android-beginners-advanced-part-ii-eb6f8d8a8926) [medium] [Hari Vignesh Jayapalan]
+
+[New Android Injector with Dagger 2 — part 1](https://medium.com/@iammert/new-android-injector-with-dagger-2-part-1-8baa60152abe) [medium] [Mert Şimşek]
+
+[New Android Injector with Dagger 2 — part 2](https://medium.com/@iammert/new-android-injector-with-dagger-2-part-2-4af05fd783d0) [medium] [Mert Şimşek]
 
 # Contributing
 Your contributions are always welcome! Please read the [contribution guidelines](contributing.md) first.
