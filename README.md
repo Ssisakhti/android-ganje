@@ -14,6 +14,7 @@ Anyway, "Ganje" is a persian word that means Closet.
 # Content [English]
 
 * [Kotlin](#kotlin)
+    * [Nothing](#nothing)
     * [Standard Functions](#standard-functions)
     * [Lambda Expressions](#lambda-expressions)
 
@@ -35,6 +36,10 @@ Anyway, "Ganje" is a persian word that means Closet.
 
 [Advanced Kotlin Programming](http://shop.oreilly.com/product/0636920052999.do) [oreilly] [Hadi Hariri]
 
+## Nothing
+
+[The Nature of Nothing in Kotlin](http://the-cogitator.com/2018/06/29/the-nature-of-nothing-in-kotlin.html) [the-cogitator] [Adam Arold]
+
 [Kotlin has Nothing but there is nothing like Nothing in Java](https://medium.com/thoughts-overflow/kotlin-has-nothing-but-there-is-nothing-like-nothing-in-java-cab98e4f4d26) [medium] [Bob]
 
 ## Standard Functions
@@ -43,6 +48,8 @@ Anyway, "Ganje" is a persian word that means Closet.
 [Exploring the Kotlin standard library](http://beust.com/weblog/2015/10/30/exploring-the-kotlin-standard-library/) [beust] [Cédric Beust]
 
 [the tldr; on Kotlin’s let, apply, also, with and run functions](https://proandroiddev.com/the-tldr-on-kotlins-let-apply-also-with-and-run-functions-6253f06d152b) [medium] [Andre Perkins]
+
+[Exploring Kotlin: Useful Standard Library Functions](http://the-cogitator.com/2018/02/10/exploring-kotlin-useful-stdlib-functions.html) [the-cogitator] [Adam Arold]
 
 ## Lambda Expressions
 [Lambda Expressions in Kotlin](https://www.baeldung.com/kotlin-lambda-expressions) [baeldung] [ Paul Jervis ]
